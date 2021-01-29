@@ -1,0 +1,11 @@
+.container{
+    color: $raisinblack;
+    &__fecha{
+        font-size: $large;
+        font-family: $playfair;
+    }
+    &__parrafo1, &__parrafo2, &__parrafo3, &__parrafo4{
+        font-size: $medium;
+        line-height: 2.813em;
+    }
+}
