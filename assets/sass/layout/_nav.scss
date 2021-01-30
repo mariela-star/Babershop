@@ -2,17 +2,24 @@
     width: 100%;
     max-width: 4.875em;
 }
+
 .navbar-nav{
     font-family: $roboto;
 }
+
 .bg-nav{
     background-color: $erieblack;
     font-size: $medium;
     font-weight: $regular;
 }
+
 .navbar-dark .navbar-nav .nav-link {
     color: $white;
     &:hover {
-        color:$fuzzywuzzy;
+        color:$white;
     }
+}
+.link-color li a {
+    text-decoration: none;
+    text-transform: none;
 }

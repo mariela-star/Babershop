@@ -152,12 +152,12 @@ sup {
 }
 
 a {
-  color: #f7efef;
+  color: #007bff;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #b19090;
+  color: #0056b3;
   text-decoration: underline;
 }
 
@@ -9945,7 +9945,12 @@ h6 {
   color: #fff;
 }
 .navbar-dark .navbar-nav .nav-link:hover {
-  color: #E56353;
+  color: #fff;
+}
+
+.link-color li a {
+  text-decoration: none;
+  text-transform: none;
 }
 
 .encabezado {
@@ -10065,4 +10070,4 @@ h6 {
   color: #121619;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.cs.map */
