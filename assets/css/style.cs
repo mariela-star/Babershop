@@ -10015,12 +10015,12 @@ h6 {
 }
 
 @media (max-width: 767px) {
-  .section-nahomi__cont-nahomi {
+  .nahomi__cont {
     display: block;
     text-align: center;
     margin: 0 auto;
   }
-  .section-nahomi__imgnahomi {
+  .nahomi__image {
     width: 30%;
   }
 }
